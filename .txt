@@ -1,0 +1,2 @@
+O uso do Git é individual e o GitHub surgiu com a proposta dos usuários compartilharem conhecimento e atuarem em trabalhos de forma colaborativa. Por isso, ela também é conhecida como "rede social de código aberto" ou "rede social dos programadores".
+GitHub é uma plataforma feita para hospedagem de códigos de programação. Os objetivos principais são o controle e a colaboração, permitindo que usuários desenvolvam projetos juntos, estando em qualquer lugar do mundo.
