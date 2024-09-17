@@ -13,7 +13,7 @@
 ```dir```
 
 #### Entrar na pasta
-```cd CursoTecnicoSenai/```
+```cd MeuPrieiroCommit/```
 
 #### 
 ```code .```
